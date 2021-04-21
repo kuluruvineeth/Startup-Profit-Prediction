@@ -9,12 +9,11 @@ This can be helpful for the venture capitalists or any investers who is willing 
 * Scikit-Learn
 
 # How to use this project
-1.clone the repository into your computer.
-2.Run the following command in the location where you cloned this repo:
-  * pip install -r requirements.txt
-3.Once you installed necessary requirements,run **python app.py** in local terminal.
-4.Now,you should be good to go and play with the project.
-5.Eureka!
+ * clone the repository into your computer.
+ * Run the following command in the location where you cloned this repo: * pip install -r requirements.txt
+ * Once you installed necessary requirements,run **python app.py** in local terminal.
+ * Now,you should be good to go and play with the project.
+ * Eureka!
 
 
 # Live Demo
