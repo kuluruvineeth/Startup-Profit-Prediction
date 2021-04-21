@@ -18,7 +18,7 @@ This can be helpful for the venture capitalists or any investers who is willing 
 
 
 # Live Demo
-<<img src="https://github.com/kuluruvineeth/Startup-Profit-Prediction/blob/main/startup_profit1.gif" width="500" height="500">
+<<img src="https://github.com/kuluruvineeth/Startup-Profit-Prediction/blob/main/startup_profit1.gif" width="1000" height="600">
 
 # Thank You
 * For visiting my repositoty!!
